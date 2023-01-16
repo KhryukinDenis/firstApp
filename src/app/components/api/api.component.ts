@@ -18,7 +18,7 @@ export class ApiComponent implements OnInit {
         SwaggerUIBundle.presets.apis,
         SwaggerUIBundle.SwaggerUIStandalonePreset
       ],
-      url: 'https://raw.githubusercontent.com/OAI/OpenAPI-Specification/master/examples/v2.0/yaml/petstore.yaml',
+      url: 'https://raw.githubusercontent.com/KhryukinDenis/firstApp/master/package.json',
       apisSorter: 'alpha'
     });
   }
