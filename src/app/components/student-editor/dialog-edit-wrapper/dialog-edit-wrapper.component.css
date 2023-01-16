@@ -1,0 +1,12 @@
+.right-align
+{
+  margin: 0 0 0 auto !important;
+}
+
+button {
+  font-family: 'Segoe UI';
+}
+
+.mat-form-field {
+  font-family: 'Segoe UI';
+}

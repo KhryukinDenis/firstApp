@@ -1,0 +1,34 @@
+table {
+  width: 80%;
+  font-family: 'Segoe UI';
+}
+
+.mat-column-delete {
+  text-align: center;
+  width: 7px;
+}
+
+.mat-column-update {
+  text-align: center;
+  width: 7px;
+}
+
+button {
+  margin-right: 5px;
+  margin-left: 5px;
+  font-family: 'Segoe UI';
+}
+
+.mat-paginator {
+  width: 90%;
+}
+
+.mat-form-field {
+  font-family: 'Segoe UI';
+}
+
+h2 {
+  text-align: center;
+  font-family: Cambria;
+  font-weight: bold;
+}
